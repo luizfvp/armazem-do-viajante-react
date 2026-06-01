@@ -79,6 +79,12 @@ armazem-do-viajante/
 
 ```
 
+## 🌍 Acesso ao Projeto
+
+O Armazém do Viajante está hospedado e disponível para acesso público. Você pode explorar a taverna e testar a forja do ferreiro acessando o link abaixo:
+
+🔗 **[Acessar o Armazém do Viajante](https://armazem-do-viajante-react.vercel.app/)**
+
 ## 👥 Autores
 
 Este projeto foi forjado pelos mestres artesãos:
